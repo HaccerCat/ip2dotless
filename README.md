@@ -11,4 +11,6 @@ Convert IP to decimal
 # Remark
 I didn't discover this, I just made a simple script that can convert it.
 # dotless2ip
-I won't make a script for that, but if you want it, search for it online or simply ping the decimal IP (for ANDROID users, you can do it in termux) 
+I won't make a script for that, but if you want it, search for it online or simply ping the decimal IP (for ANDROID users, you can do it in termux)
+# LINKS
+- [Join my discord server](https://discord.gg/b2ejYcJjqA) 
